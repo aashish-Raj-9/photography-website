@@ -37,6 +37,6 @@ Explore my work, book a session, or connect with me on social media!
 
 ---
 
-**Preview**: [Live Demo Link](https://portfolio-aashishraj.netlify.app/)
+**Preview**: [Live Demo Link](https://teal-sorbet-10973b.netlify.app/)
 
 Thank you for visiting, and I hope you enjoy the experience!
