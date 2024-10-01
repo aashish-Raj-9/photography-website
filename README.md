@@ -24,7 +24,16 @@ Contact & Follow Me:
 Explore my work, book a session, or connect with me on social media!
 
 Instagram: https://www.instagram.com/artist_sinha_01/
+
+
 LinkedIn: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHZCp4jW2MFkgAAAZI6NHOokL50hE86bccluDwfCuuJVb5Z0pe98OcTQgL7YD10prvBM9istj693yv6CC3OCAyF-L7NhnxGLYKZ5njMdk7u70dEc6MXZt5bD8IKrjLfCrcJc88=&original_referer=https://portfolio-aashishraj.netlify.app/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faashish-raj-370540293
+
+
+
+
+
+
+
 Live Demo Link: https://portfolio-aashishraj.netlify.app/
 
 Thank you for visiting, and I hope you enjoy the experience!
