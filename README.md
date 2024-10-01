@@ -8,8 +8,8 @@ Welcome to my photography portfolio! This website is designed to showcase my pas
 - **Responsive Design**: The website adapts beautifully to any screen size for the best viewing experience.
 - **Minimalistic & Elegant Layout**: Focuses on visual storytelling with a sleek design.
 - **Animation Effects**: Subtle animations enhance user engagement while keeping the focus on the photography.
-- **HTML & CSS**: The entire website is built using HTML and CSS for smooth performance.
-- **Social Media Links**: All social media links are functional and direct visitors to my profiles to stay connected.
+- **HTML, CSS & JAVASCRIPT**: The website is built using HTML for structure, CSS for styling, and JavaScript for dynamic interactions.
+- **Social Med ia Links**: All social media links are functional and direct visitors to my profiles to stay connected.
 
 ---
 
@@ -22,10 +22,15 @@ Welcome to my photography portfolio! This website is designed to showcase my pas
 
 ---
 
+### JavaScript Features:
+**Smooth Scrolling**: Enhances the navigation experience between sections for a smooth transition.
+**Hover Effects**: Engaging hover animations that highlight photos and elements.
+**Gallery Interactivity**: A dynamic photo gallery with JavaScript interactions for a better user experience.
+
 ### Technologies Used:
 - **HTML** for structuring the content.
 - **CSS** for styling and ensuring responsive design.
-- **Animations** for added dynamism and visual appeal.
+- **JAVASCRIPT**  for adding interactivity and smooth animations..
 
 ---
 
