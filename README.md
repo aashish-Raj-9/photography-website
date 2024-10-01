@@ -6,20 +6,38 @@ or mobile, it’s optimized for a seamless and engaging browsing experience.
 
 
 # Key Features:
-. Responsive Design: The website adapts beautifully to any screen size for the best viewing experience.
+Responsive Design: The website adapts beautifully to any screen size for the best viewing experience.
+
+
 Minimalistic & Elegant Layout: Focuses on visual storytelling with a sleek design.
+
+
 Animation Effects: Subtle animations enhance user engagement while keeping the focus on the photography.
 HTML & CSS: The entire website is built using HTML and CSS for smooth performance.
+
+
 Social Media Links: All social media links are functional and direct visitors to my profiles to stay connected.
-Website Sections:
+
+
 Hero Section: A dynamic introduction featuring eye-catching visuals.
+
+
 Portfolio: My featured works are displayed with descriptions, allowing you to explore my range of photography.
+
+
 Services: From fashion to wedding photography, discover the services I provide.
+
+
 Social Media Links: Follow me on my photography journey across various platforms.
+
+
 Technologies Used:
 HTML for structuring the content.
+
 CSS for styling and ensuring responsive design.
+
 Animations for added dynamism and visual appeal.
+
 Contact & Follow Me:
 Explore my work, book a session, or connect with me on social media!
 
