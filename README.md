@@ -2,7 +2,7 @@
 
 Welcome to my photography portfolio! This website is designed to showcase my passion for capturing life's moments through a creative lens. Fully responsive and modern, this site offers a smooth user experience on all devices. Whether you're on a desktop, tablet, or mobile, it’s optimized for a seamless and engaging browsing experience.
 
-![Aashish Raj Photographer](https://portfolio-aashishraj.netlify.app/)
+![Aashish Raj Photographer](https://github.com/user-attachments/assets/257e6672-fd39-4203-b95a-902d19f8b58c)
 
 ## Key Features:
 - **Responsive Design**: The website adapts beautifully to any screen size for the best viewing experience.
