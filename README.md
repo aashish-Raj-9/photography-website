@@ -5,7 +5,7 @@ Fully responsive and modern, this site offers a smooth user experience on all de
 or mobile, it’s optimized for a seamless and engaging browsing experience.
 
 
-Key Features:
+# Key Features:
 Responsive Design: The website adapts beautifully to any screen size for the best viewing experience.
 Minimalistic & Elegant Layout: Focuses on visual storytelling with a sleek design.
 Animation Effects: Subtle animations enhance user engagement while keeping the focus on the photography.
